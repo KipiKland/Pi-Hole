@@ -7,10 +7,9 @@
 # Date: 28 December 2021
 # Number of unique domains: 0
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# Project home page: https://github.com/StevenBlack/hosts
-# Project releases: https://github.com/StevenBlack/hosts/releases
-#
+# Fetch the latest version of this file: https://github.com/KipiKland/Pi-Hole/blob/main/Pi-Hole_Guest_Network.txt
+# Project home page: https://github.com/KipiKland/Pi-Hole/
+# Project releases: 
 # ===============================================================
 
 127.0.0.1 localhost
@@ -32,10 +31,10 @@ ff02::3 ip6-allhosts
 
 
 # End of custom host records.
-# Start StevenBlack
+# Start Fabrice Voarick
 
-#=====================================
+#============================================
 # Title: Hosts contributed by Fabrice Voarick
-# http://stevenblack.com
+#============================================
 
 # 0.0.0.0 wizhumpgyros.com
