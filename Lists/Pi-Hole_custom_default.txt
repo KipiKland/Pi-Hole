@@ -36,3 +36,4 @@
 0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 click.oneplus.cn
 0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 analytics-api.samsunghealthcn.com
